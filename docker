@@ -1,1 +1,3 @@
-From ubuntu
+FROM ubuntu
+MAINTAINER "Ashok"
+
