@@ -31,7 +31,20 @@ pipeline{
  step{
  
  }
+ 
+ // story AB-102
+ stage ("git clone")
+ {
+ step{
+ 
+ //LOGIC
+ git 'repo'
+ 
+ 
  }
+ 
+ }
+ 
  
  }
  
