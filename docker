@@ -1,6 +1,6 @@
 FROM ubuntu
 MAINTAINER "Ashok"
-
+CMD "echo hlo"
 
 RUN "echo hi"
 
