@@ -1,3 +1,5 @@
+
+FROM windows
 FROM ubuntu
 MAINTAINER "Ashok"
 RUN "echo hi"
@@ -8,6 +10,7 @@ CMD "echo hlo"
 RUN "echo hi"
 
 RUN "echo Hello"
+
 
 
 
