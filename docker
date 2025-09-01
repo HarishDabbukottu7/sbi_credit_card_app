@@ -3,7 +3,6 @@ MAINTAINER "Ashok"
 
 RUN "echo hi"
 
-RUN "echo Hello"
-
+RUN "echo hello" 
 
 
